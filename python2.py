@@ -4,4 +4,4 @@ def function(sentence, letter):
         if x == letter:
             i +=1
     print('letter', i)
-function('never never never', 'o')
+function('never never never', 'e')
